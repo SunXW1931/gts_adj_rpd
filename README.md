@@ -1,4 +1,5 @@
-# DGEIAN
+# gts_adj_rpd
+our paper: Affective Commonsense Knowledge Enhanced Dependency Graph for Aspect Sentiment Triplet Extraction
 some code is from https://github.com/sll0107/DGEIAN, and thanks them
 
 ## Data
